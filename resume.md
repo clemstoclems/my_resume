@@ -27,7 +27,7 @@
 Bouygues Telecom
 : *Developer at the Digital and Innovation Lab*
   __Since October 2013__
-  - Achieving Proof Of Contest / Testing tools, libraries, frameworks<br>
+  - Achieving Proof Of Concept / Testing tools, libraries, frameworks<br>
   - Development of collaborative tools in Symfony2<br>
   - Technology watch<br>
   - Writing small articles for the team [blog](http://midlab.fr)<br>
@@ -44,15 +44,15 @@ Interakting
   - Development of the WebServices interfaces.<br>
   - Writing Technical Specifications and Documentation, conception, modeling, development, managing developers.<br><br>
   Research and Development :<br>
-  - Developing a Php library following the PHP Standard Recommendation PSR0.<br>
+  - Development of a Php library following the PHP Standard Recommendation PSR0.<br>
   - Writing the library technical documentation.<br><br>
   Opera Gallery :<br>
-  - Technical lead for the development of an intranet (catalog management) in Symfony2 (2.0).<br>
+  - Technical lead for the development for an intranet (catalog management) in Symfony2 (2.0).<br>
   - Writing Technical Specification and Documentation, conception, modeling, development, managing developers.<br><br>
   CanalPlus :<br>
-  - Technical lead for the development of WebServices.<br>
+  - Technical lead for the WebServices development.<br>
   - Writing Technical Specifications and Documentation, conception, development, code review, deployments.<br>
-  - Developing and maintaining several websites of Canal+ in a team from 10 to 20 peoples.<br><br>
+  - Development and maintenance several websites of Canal+ in a team from 10 to 20 peoples.<br><br>
   Samsung Electronics France :<br>
   - Lead developer in a 5 developers team maintaining the different Samsung websites b2c and b2b<br>
   - Writing Technical Specifications, conception, developments, deployments<br>
